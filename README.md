@@ -1,6 +1,6 @@
 # Luke's Sales Tracker
 
-This was a school project I made for a Java class. It uses Swing, Collections, and Files.
+This was a school project I made for a Java class. It uses Swing, Collections, Files, and GUI Builder.  
 
 ![Lukes Sales Tracker](https://image.ibb.co/dCwQVT/lukes_sales_app.png)
 
